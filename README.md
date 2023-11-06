@@ -1,7 +1,4 @@
 ### Olá! Eu sou Lucas Suzuki
-- 🔭 Hoje estou na UTFPR, cursando engenharia eletrônica mas eu gosto de programar
-- 🌱 Estudando ...
-- 📫 Contate-me no email: lucas14112003@gmail.com
 
 <div align="center">
   <a href="https://github.com/suzukiin">
